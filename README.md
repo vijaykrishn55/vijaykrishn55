@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykrishn55&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykrishn55" /> </p>
 
 
-- 🔭 I’m currently working on **FinFlex - A Finance Tracking Web App**  
+- 🔭 I’m currently working on **startup obituaries - a community platform for the failed startups**  
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Cryptography**  
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/b-vijaykrishna05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b-vijaykrishna05" height="30" width="40" /></a>
-<a href="mailto:bvijaykrishna0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bvijaykrishna0@gmail.com" height="30" width="40" /></a>
+<a href="mailto:bvijaykrishna0@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="bvijaykrishna0@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" alt="ant design" width="40" height="40"/> </a> 
+<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant design" width="40" height="40"/> </a> 
 <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -46,5 +46,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykrishn55&show_icons=true&locale=en&layout=compact" alt="vijaykrishn55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykrishn55&show_icons=true&locale=en" alt="vijaykrishn55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishn55&" alt="vijaykrishn55" /></p>
