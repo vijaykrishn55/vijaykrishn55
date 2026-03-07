@@ -8,7 +8,7 @@
 
 - 🌐 **Portfolio:** [vijaykrishna.dev](https://portfolio-eight-psi-0e8e1b5o5b.vercel.app/)
 - 🔬 **Roles:** Fullstack Developer · Data Scientist · AI/ML Explorer
-- 🌱 **Currently learning:** Machine Learning, Cryptography
+- 🌱 **Currently learning:** Web Dev, Data science
 - 💬 **Ask me about:** React, Node.js, Python, Data Science, Web Development
 - 📫 **Reach me at:** [bvijaykrishna0@gmail.com](mailto:bvijaykrishna0@gmail.com)
 
