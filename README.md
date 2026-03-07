@@ -8,7 +8,7 @@
 
 - 🌐 **Portfolio:** [vijaykrishna.dev](https://portfolio-eight-psi-0e8e1b5o5b.vercel.app/)
 - 🔬 **Roles:** Fullstack Developer · Data Scientist · AI/ML Explorer
-- 🌱 **Currently learning:** Data Structures & Algorithms, Machine Learning, Cryptography
+- 🌱 **Currently learning:** Machine Learning, Cryptography
 - 💬 **Ask me about:** React, Node.js, Python, Data Science, Web Development
 - 📫 **Reach me at:** [bvijaykrishna0@gmail.com](mailto:bvijaykrishna0@gmail.com)
 
@@ -63,13 +63,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaykrishn55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaykrishn55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykrishn55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vijaykrishn55&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaykrishn55&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaykrishn55&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
